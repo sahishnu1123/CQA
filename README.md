@@ -27,7 +27,7 @@ Install CQA project files directory using git clone, Run:
     git clone https://github.com/sahishnu1123/CQA
 ### Prerequisite
 
-Your local Machine must have MySQL installed and MySQL Workbench(preferably for excuting .sql scripts)
+Your local Machine must have PostgreSQL installed and pgAdmin(preferably for excuting .sql scripts, or you could execute them from the terminal too.)
 
 Create a Local MySQL connection of SQL server in your machine with :
 
