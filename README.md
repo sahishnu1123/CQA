@@ -29,7 +29,7 @@ Install CQA project files directory using git clone, Run:
 
 Your local Machine must have PostgreSQL installed and pgAdmin(preferably for excuting .sql scripts, or you could execute them from the terminal too.)
 
-Create a Local MySQL connection of SQL server in your machine with :
+Create a Local PostgreSQL connection of SQL server in your machine with :
 
     username: "postgres"
     password: "1234"
