@@ -6,7 +6,7 @@ This is a web based project designed to mimic a community question answer websit
 
 - [@sahishnu1123](https://www.github.com/sahishnu1123)
 - [@RishiManoj11045](https://www.github.com/RishiManoj11045)
-- [@Sriram](https://www.google.com)
+- [@Sriram](https://www.github.com/Sriramjupally)
 - [@Vignan](https://wwww.google.com)
 
 ## Tech Stack
