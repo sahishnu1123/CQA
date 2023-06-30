@@ -15,7 +15,7 @@ This is a web based project designed to mimic a community question answer websit
 
 **Backend:** Javascript
 
-**Database:** PostgreSQL(You can proceed with MySQL as your database tool as it is lighter)
+**Database:** PostgreSQL
 
 
 ## Installation, Usage and Maintanence
